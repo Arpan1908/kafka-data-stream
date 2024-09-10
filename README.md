@@ -14,6 +14,6 @@ Real-Time Communication: Socket.IO
 Project Setup
 Prerequisites
 Node.js and npm installed
-PostgreSQL database
+PostgreSQL database 
 Kafka server set up for event streaming
 WebSocket server (Socket.IO) running
