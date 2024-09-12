@@ -9,7 +9,7 @@ Dynamic Data Visualizations: Integration of Chart.js for interactive and respons
 Technology Stack
 Frontend: React, WebSockets, Chart.js, Axios
 Backend: Kafka, Python (Kafka producer), PostgreSQL for data storage
-Database: PostgreSQL
+Database: PostgreSQL(XATA.io)
 Real-Time Communication: Socket.IO
 Project Setup
 Prerequisites
