@@ -88,6 +88,8 @@ io.on('connection', (socket) => {
 });
 
 
+//const port = 5000
+
 server.listen(5000, () => {
     console.log('Server running on port 5000');
 });
